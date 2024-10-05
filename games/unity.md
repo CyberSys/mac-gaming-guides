@@ -219,6 +219,8 @@ NOTE: You need to mark the options window to "Only show if Option key is pressed
 | Installer MD5 | `a4e78561ea25c968e064bd6ac3fa6ca7`                                                              |
 | Verified by   | boggydigital                                            |
 
+> The game runs with better performance if the launch option is specified as `-force-glcore`.
+
 ### The Silver Case
 
 |               |                                                                                                 |
