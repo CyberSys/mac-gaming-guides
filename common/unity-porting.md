@@ -291,7 +291,7 @@ Now we will start copying game data to inside the UnityPlayer App:
 - Copy Game Data Folder (`gamename_Data`) to `UnityPlayer.app`/`Contents`/`Resources`/ and rename it to `Data`
     - NOTE: On *VERY* old unity versions this folder must be inside `Contents`
 - Navigate to the `Data` Folder and copy the `Plugins` Folder to `Contents`
-    - IMPORTANT NOTE: You must also get mac version of the plugins inside or the game wont work, see [Missing libraries (`Fallback handler could not load library`)](#missing-libraries-(fallback-handler-could-not-load-library))
+    - IMPORTANT NOTE: You must also get mac version of the plugins inside or the game wont work, see [Missing libraries (`Fallback handler could not load library`)](#missing-libraries-fallback-handler-could-not-load-library)
 - Also, *inside of the `Data` folder* look for `Resources`, Navigate *inside* it, and copy everything into `UnityPlayer.app`/`Contents`/`Resources`/
 
 If the game is running, Congrats!! You ported a Windows/Linux Unity game to be run on Mac!!
